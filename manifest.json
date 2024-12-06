@@ -82,5 +82,6 @@
         "*://i.jandan.net/*",
         "*://*.sinaimg.cn/*",
         "*://*.moyu.im/*"
+        "*://*.toto.im/*"
     ]
 }
