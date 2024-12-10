@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^https:\/\/(.*)\\.moyu\\.im\/(.*)",
+      "regexFilter": "^https:\/\/(.*)\\.(moyu|)\\.im\/(.*)",
       "resourceTypes": [
         "main_frame",
         "image"
